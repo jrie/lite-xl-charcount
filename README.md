@@ -35,12 +35,12 @@ If everything is setup, you should see the following informations  in the status
 ---
 
 ### Multiple selections - Display characters of all selections
-<img width="1053" height="452" alt="multiple selections" src="https://github.com/user-attachments/assets/5f87ecb0-acf9-40c4-9136-e983a47e3fd9" />
+<img width="1053" height="452" alt="ranged selections" src="https://github.com/user-attachments/assets/c04d1094-2257-4b21-9f1d-b75b7678f238" />
 
 ---
 
 ### Ranged selection, here with newlines too
-<img width="1053" height="452" alt="ranged selections" src="https://github.com/user-attachments/assets/c04d1094-2257-4b21-9f1d-b75b7678f238" />
+<img width="1053" height="452" alt="multiple selections" src="https://github.com/user-attachments/assets/5f87ecb0-acf9-40c4-9136-e983a47e3fd9" />
 
 ---
 

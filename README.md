@@ -3,13 +3,13 @@ lite-xl plugin to display character and newline counts of a document and selecti
 
 
 ## Quick installation
-- Download or clone the repository and copy the folder "charcount" to the lite-xl plugin folder to: `lite-xl/plugins/`.
+- Download or clone the repository and copy the file `charcount.lua` to the lite-xl plugin folder to: `lite-xl/plugins/`.
  
 In case of questions, refer to the ["lite-xl plugin installation guide"](https://github.com/lite-xl/lite-xl-plugins).
 
 
 ## Usage
-The plugin should work out-of-box after copying the `charcount` folder to the plugin directory.
+The plugin should work out-of-box after copying the file `charcount.lua` to the plugin directory.
 
 If everything is setup, you should see the following informations  in the status bar of lite-xl:
 
